@@ -1,11 +1,11 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import Suhu from './src/suhu';
+import Random from './src/Random';
 
 const App = () => {
   return (
     <View>
-      <Suhu />
+      <Random />
     </View>
   );
 };
