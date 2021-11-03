@@ -16,7 +16,7 @@ const App = () => {
             justifyContent: 'center',
             alignItems: 'center',
           }}
-          title="Cek Suhu"
+          title="Jagad | Cek Suhu"
         />
       </Appbar.Header>
       <View

@@ -1,15 +1,9 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import Random from './src/Random';
+import AlertNot from './src/alert';
 
 const App = () => {
-  return (
-    <View>
-      <Random />
-    </View>
-  );
+  return <AlertNot />;
 };
 
 export default App;
-
-const styles = StyleSheet.create({});

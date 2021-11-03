@@ -15,7 +15,7 @@ const Random = () => {
             justifyContent: 'center',
             alignItems: 'center',
           }}
-          title="Bilangan Acak"
+          title="Jagad | Bilangan Acak"
         />
       </Appbar.Header>
       <View
@@ -31,7 +31,7 @@ const Random = () => {
             onPress={() => {
               setAcak(Math.floor(Math.random() * 100));
             }}>
-            Konversikan
+            Acak
           </Button>
           <Button
             mode="contained"
