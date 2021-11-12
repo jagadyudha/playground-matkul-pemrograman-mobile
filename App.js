@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import ReplaceString from './src/tugasfour/isintegrercheck';
+import ReplaceString from './src/tugasfive/sortingnumber';
 
 const App = () => {
   return <ReplaceString />;
