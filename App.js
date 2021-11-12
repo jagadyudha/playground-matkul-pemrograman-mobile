@@ -1,9 +1,9 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import Percabangan from './src/tugasthree/percabangan3';
+import ReplaceString from './src/tugasfour/isintegrercheck';
 
 const App = () => {
-  return <Percabangan />;
+  return <ReplaceString />;
 };
 
 export default App;
