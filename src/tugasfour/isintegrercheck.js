@@ -10,7 +10,7 @@ import {
   TextInput,
 } from 'react-native-paper';
 
-const IndexofString = () => {
+const IntegrerCheck = () => {
   const [text, setText] = React.useState();
   const [text1, setText1] = React.useState();
   const [result, setResult] = React.useState();
@@ -64,6 +64,6 @@ const IndexofString = () => {
   );
 };
 
-export default IndexofString;
+export default IntegrerCheck;
 
 const styles = StyleSheet.create({});
